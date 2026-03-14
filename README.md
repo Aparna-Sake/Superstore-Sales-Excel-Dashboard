@@ -18,5 +18,10 @@ An end-to-end Excel dashboard project analyzing US Superstore sales data from 20
 ## 🛠️ Skills Used
 Excel | Data Cleaning | Pivot Tables | Dashboard Design | Data Analysis
 
+## 📸 Dashboard Preview
+![Dashboard](Excel%20Dashboard.png)
+![Monthly Trend](Monthly%20Sales%20Trend%20by%20Year.png)
+![Summary Tables](Summary%20Tables.png)
+
 ## 📁 Dataset
 Sample Superstore dataset (US retail orders 2014–2017)
