@@ -27,4 +27,4 @@ Excel | Data Cleaning | Pivot Tables | Dashboard Design | Data Analysis
 Sample Superstore dataset (US retail orders 2014–2017)
 
 ## 🌐 Portfolio
-[View my Portfolio](https://www.notion.so/Aparna-Sake-Data-Analyst-Portfolio-3237f0c458d3804f99cbd041f65bb587)
+[View my Portfolio](https://aparna-sake.github.io/aparna-sake-portfolio/)
